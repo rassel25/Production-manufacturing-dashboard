@@ -24,15 +24,23 @@ The Power BI dashboard includes the following key metrics:
 
 ## 🔍 Key Insights & Business Impact
 
-### 1. ⚠️ OEE Below Global Target for Most Months
-- **Observation:** OEE falls below the global benchmark of 85% in all months except May.
-- **Impact:** Indicates inefficiencies in equipment or processes, potentially leading to production delays and increased costs. Targeted improvements can enhance overall operational efficiency.
+### 1. ⚠️ OEE Consistently Below Global Benchmark
+- **Observation:** The OEE is below the global target (85%) for 11 out of 12 months, with March and November showing the lowest values (50.0% and 56.2% respectively).
+- **Impact:** Sustained inefficiencies lead to underutilization of resources and delayed deliveries. Targeting OEE improvements through root-cause analysis can lead to a measurable boost in productivity.
 
-### 2. 🧪 Exceptional Product Quality
-- **Observation:** Quality metric is at **99.3%**.
-- **Impact:** Demonstrates strong quality control, reducing rework and customer complaints. This allows focus to shift toward improving equipment availability and performance.
+### 2. 🧪 High Product Quality
+- **Observation:** Quality remains excellent at **99.3%**, surpassing industry norms.
+- **Impact:** Minimizes costs associated with rework and returns, improving customer satisfaction. Focus can now shift toward improving equipment availability and speed.
 
-### 3. ⏳ Significant Downtime Logged
-- **Observation:** Total of **8,321 hours** of downtime.
-- **Impact:** Reducing downtime could increase equipment availability (currently 78.6%) and boost total production output, positively affecting OEE and revenue.
+### 3. ⏳ Excessive Downtime
+- **Observation:** A total of **8,321 hours** of downtime recorded.
+- **Impact:** Significant opportunity to increase operational efficiency by minimizing machine idle time through predictive maintenance and process streamlining.
+
+### 4. 📉 Underperformance in March and July
+- **Observation:** OEE dropped to **50.0% in March** and **59.0% in July**, well below acceptable thresholds.
+- **Impact:** Highlights periods of potential equipment failure, labor issues, or supply chain disruptions. Investigating these anomalies can help prevent future performance dips.
+
+### 5. 📆 May Achieved Peak Performance
+- **Observation:** OEE reached **86.0% in May**, the only month above the global benchmark.
+- **Impact:** Identifying and replicating the operational conditions or strategies used in May can help standardize best practices across other months and shifts.
 
