@@ -46,5 +46,5 @@ The Power BI dashboard includes the following key metrics:
 
 ## 🌐 View the Interactive Dashboard
 
-👉 [Click here to view the live Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYourLinkHere](https://app.powerbi.com/reportEmbed?reportId=da5deea9-728d-4e84-8557-39543697e7bd&autoAuth=true&ctid=66729186-d438-410e-a5f4-3cc7c5f60a39))
+👉 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=da5deea9-728d-4e84-8557-39543697e7bd&autoAuth=true&ctid=66729186-d438-410e-a5f4-3cc7c5f60a39)
 
